@@ -1,0 +1,6 @@
+name = "corseverywhere"
+type = "javascript"
+account_id = "fb2876e39382db3f7c5d0527c44275ea"
+workers_dev = true
+route = ""
+zone_id = "7933fd5119ddf57a3a4f4145df34720c"
